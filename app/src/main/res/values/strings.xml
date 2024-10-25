@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Gusto Lunch Menu</string>
+    <string name="lunch_week">Week %1$s</string>
+    <string name="lunch_menu_retry">Retry</string>
+
+
+    <string name="lunch_menu_loading">Lunch Menu is Loading...</string>
+    <string name="lunch_menu_generic_error">Something went wrong</string>
+    <string name="lunch_menu_no_internet_error">No internet connection</string>
+    <string name="lunch_menu_unknown_error">Unknown error</string>
+    <string name="lunch_menu_http_error">Network error</string>
+
+    <string name="lunch_weekday_monday">Monday - %1$s</string>
+    <string name="lunch_weekday_tuesday">Tuesday - %1$s</string>
+    <string name="lunch_weekday_wednesday">Wednesday - %1$s</string>
+    <string name="lunch_weekday_thursday">Thursday - %1$s</string>
+    <string name="lunch_weekday_friday">Friday - %1$s</string>
+    <string name="lunch_weekday_unknown">Unknown Day - %1$s</string>
+</resources>
